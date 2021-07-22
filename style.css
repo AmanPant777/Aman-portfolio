@@ -7,7 +7,36 @@
   text-decoration: none;
   scroll-behavior: smooth;
 }
-
+#linkedIn {
+  width: 200px;
+  height: 200px;
+  border-radius: 0%;
+  background-image: url("Images/linked.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: contain;
+}
+#tesla {
+  width: 200px;
+  height: 200px;
+  border-radius: 0%;
+  background-image: url("Images/tesla.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: contain;
+}
+#airbnb {
+  width: 200px;
+  height: 200px;
+  border-radius: 0%;
+  background-image: url("Images/airbnb.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: contain;
+}
 /* Custom Scroll Bar CSS */
 ::-webkit-scrollbar {
   width: 10px;
@@ -318,7 +347,7 @@ section .button button:hover {
   width: calc(100% / 3 - 20px);
   text-align: center;
   border-radius: 12px;
-  padding: 30px 10px;
+  padding: 10px 10px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12);
   cursor: default;
   transition: all 0.4s ease;
@@ -330,7 +359,7 @@ section .button button:hover {
 .services .boxes .box .icon {
   height: 50px;
   width: 50px;
-  background: #4070f4;
+  /* background: #4070f4; */
   border-radius: 50%;
   text-align: center;
   line-height: 50px;
