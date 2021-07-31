@@ -7,6 +7,16 @@
   text-decoration: none;
   scroll-behavior: smooth;
 }
+#disney {
+  width: 200px;
+  height: 200px;
+  border-radius: 0%;
+  background-image: url("Images/disneyplus.0.0.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: contain;
+}
 #linkedIn {
   width: 200px;
   height: 200px;
