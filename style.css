@@ -17,11 +17,22 @@
   background-repeat: no-repeat;
   object-fit: contain;
 }
+#i-message {
+  background-image: url("https://e7.pngegg.com/pngimages/403/386/png-clipart-messages-macos-imessage-apple-blue-mobile-phones-thumbnail.png");
+  width: 200px;
+  height: 200px;
+  border-radius: 0%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: contain;
+}
+
 #linkedIn {
   width: 200px;
   height: 200px;
   border-radius: 0%;
-  background-image: url("Images/linked.png");
+  background-image: url("https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
